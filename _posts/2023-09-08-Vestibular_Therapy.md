@@ -3,6 +3,7 @@ title: Vestibular Therapy
 category: Treatment
 tags: [vrt,vestibular therapy, physical therapist, covid vaccine, paratransit, insurance]
 date: 09-09-2021
+
 ---
 
 ## Initial testing

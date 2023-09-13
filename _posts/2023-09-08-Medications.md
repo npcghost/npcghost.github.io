@@ -1,12 +1,11 @@
 ---
 title: Medications
-category: Treatment
-tags: [vertigo,syncope,]
+category: Medications
+tags: [medications]
 date: 09-09-2023
-
 ---
 
- I seem to already be predispositioned to issues with medications. 
+I seem to already be predispositioned to issues with medications. 
 
 
 ![pharma summary](/assets/img/pharmacogenomic.png)

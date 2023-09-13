@@ -2,7 +2,7 @@
 title: Bad Experiences with the system
 category: Ramblings
 tags: [malingering, side effects, pt, lexapro,vrt]
-date: 09-09-2010
+
 
 ---
 
@@ -31,14 +31,18 @@ Also he had agreed to do further testing as I felt something was very wrong.
 ### Malingering Accusations
 <details> <summary> Being accused of faking </summary>
 
-I keep my medical records for accurate reference due to my cognitive and memory issues, relying on OCR technology for recall. When I requested records from my physical therapist (PT), I noticed they mentioned my absence between my initial evaluation and the start of therapy, suggesting I might be malingering. They also questioned the validity of my condition, noting that I briefly stood still while they applied straps and then continued to wobble.
-
-I could have explained the reasons behind these actions (e.g., delays due to financial issues, surgery, the pandemic, and transportation challenges). Additionally, my blood pressure issue affects my vestibular system, so calf tightening briefly stabilizes me but worsens it when released. Ironically, But they assumed and documented without asking. I worry that future physicians might side with the PT, dismissing my case due to this written statement.
-
+I keep my medical records for accurate reference due to my cognitive and memory issues, relying on OCR technology for recall. When I requested records from my physical therapist (PT), I noticed they mentioned my absence between my initial evaluation and the start of therapy, suggesting I might be malingering. They also questioned the validity of my condition, noting that I briefly stood still while they applied straps and then continued to wobble.  
+<br>
+I could have explained the reasons behind these actions (e.g., delays due to financial issues, surgery, the pandemic, and transportation challenges). Additionally, my blood pressure issue affects my vestibular system, so calf tightening briefly stabilizes me but worsens it when released. Ironically, But they assumed and documented without asking. I worry that future physicians might side with the PT, dismissing my case due to this written statement.  
+<br>
 I didn't know how to resolve this at the time. Consulting with a psychologist and others, I received mixed advice. Some suggested filing a complaint and correcting it, while others believed the correction might draw more attention and considered it just an opinion. Given the small city and potential system backlash, I hesitated.   
-
+<br>
 I've been warned that this incident could harm future attempts at Social Security Disability Insurance (SSDI) if I become unable to work due to my condition. This casual approach by my PT, especially after I confided in them about the importance of keeping myself employed as I could end up homeless, has left me feeling betrayed. There appeared to be no turmoil between us and she was quite pleasant. The whole situation really messed with my head. 
-![was this really necessary](/assets/img/malingering.jpg)
+<br>
+
+<img src="/assets/img/malingering.png">
+
+
 </details>
 
 ### Broken promises 
@@ -52,22 +56,22 @@ After the appointment, I cried. I spent months pulling overtime for this, being 
 
 
 ## Proof
-
+<details><summary>screenshots from online forums</summary>
 I thought it was something I was doing wrong for a while until I realized this is just what happens when you have these symptoms and no answers.   
 Got me a bit curious about why, with all their education, they can assume malice/laziness so confidently. I personally know the symptoms I have are debilitating and very real so how many others are they treating poorly? Apparently a lot.   
 There's also quite a few web forums particularly designed to follow patient's social media pages and after reading over these for a long time I've noticed many are healthcare workers themselves. They laugh at and mock the patients even when they die. Constantly following them. Their discussions come up when you search for that patient's alias. Even after their death they continue to follow the patient's families and remark how much happier their family must be without them.  
 Funny enough when HCWs get a condition like this themselves it goes one of two ways. It's so mild that they can continue working and double down on their theories that the patients are drama queens, or if they have to quit working, the medical system turns against them. 
 
 Another reason I'm not really getting much worked up anymore. 
-
-![CFS discussion](/assets/img/reddit1.jpg)
 <br>
-![random](/assets/img/reddit2.PNG)
+<img src="/assets/img/reddit1.jpg">
+<br>
+<img src="/assets/img/reddit2.PNG">
 
 
 
 
-
+</details>
 
 
 

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2023-09-13T12:56:29-05:00</updated>
+  <updated>2023-09-13T15:39:24-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -17,48 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Summary of tests I've done</title>
-    <link href="http://localhost:4000/posts/Tests/" rel="alternate" type="text/html" title="Summary of tests I&amp;apos;ve done" />
-    <published>2023-09-09T00:00:00-05:00</published>
-  
-    <updated>2023-09-09T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Tests/</id>
-    <content src="http://localhost:4000/posts/Tests/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Tests" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Tests completed
-
-VNG and caloric
-conclusion of central vertigo
-
-Couldn’t finish Caloric but this appears to be common with migraine related vertigo Neuro-otological findings in patients with migraine- and nonmigraine-related dizziness?
- side note, caloric caused a massive vertigo attack and I started sweating and shaking so she stopped the test and told me I really don't have to do it so I wa...
-    </summary>
-  
-
-  </entry>
 
   
   <entry>
@@ -76,7 +34,7 @@ Couldn’t finish Caloric but this appears to be common with migraine related ve
 
   
     
-    <category term="Treatment" />
+    <category term="Medications" />
     
   
 
@@ -134,7 +92,8 @@ disclaim...
       I know these are shit diagnoses. I haven’t found an objective answer so I get trash labels slapped on me.
 
 Vasovagal Syncope
-Diagnosed when I kept fainting. I always thought this condition was fainging over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dige...
+
+Diagnosed when I kept fainting. I always thought this condition was fainging over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dig...
     </summary>
   
 
@@ -179,6 +138,48 @@ Low blood pressure (managed)
 Menstrual Symptoms:
 
 Heavy and painful peri...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Summary of tests I've done</title>
+    <link href="http://localhost:4000/posts/Tests/" rel="alternate" type="text/html" title="Summary of tests I&amp;apos;ve done" />
+    <published>2022-09-09T00:00:00-05:00</published>
+  
+    <updated>2022-09-09T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Tests/</id>
+    <content src="http://localhost:4000/posts/Tests/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Tests" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Tests completed
+
+VNG and caloric
+conclusion of central vertigo
+
+Couldn’t finish Caloric but this appears to be common with migraine related vertigo Neuro-otological findings in patients with migraine- and nonmigraine-related dizziness?
+ side note, caloric caused a massive vertigo attack and I started sweating and shaking so she stopped the test and told me I really don't have to do it so I wa...
     </summary>
   
 
