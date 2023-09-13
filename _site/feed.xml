@@ -4,35 +4,37 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2023-09-13T11:24:05-05:00</updated>
+  <updated>2023-09-13T12:56:29-05:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 your_full_name </rights>
+  <rights> © 2023 NPCghost </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Test</title>
-    <link href="http://localhost:4000/posts/test/" rel="alternate" type="text/html" title="Test" />
-    <published>2023-09-13T00:00:00-05:00</published>
+    <title>Summary of tests I've done</title>
+    <link href="http://localhost:4000/posts/Tests/" rel="alternate" type="text/html" title="Summary of tests I&amp;apos;ve done" />
+    <published>2023-09-09T00:00:00-05:00</published>
   
-    <updated>2023-09-13T00:00:00-05:00</updated>
+    <updated>2023-09-09T00:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/test/</id>
-    <content src="http://localhost:4000/posts/test/" />
+    <id>http://localhost:4000/posts/Tests/</id>
+    <content src="http://localhost:4000/posts/Tests/" />
     <author>
-      <name>your_full_name</name>
+      <name>NPCghost</name>
     </author>
 
   
+    
+    <category term="Tests" />
     
   
 
@@ -44,8 +46,177 @@
 
 
 
-      test
+      
 
+Tests completed
+
+VNG and caloric
+conclusion of central vertigo
+
+Couldn’t finish Caloric but this appears to be common with migraine related vertigo Neuro-otological findings in patients with migraine- and nonmigraine-related dizziness?
+ side note, caloric caused a massive vertigo attack and I started sweating and shaking so she stopped the test and told me I really don't have to do it so I wa...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Medications</title>
+    <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications" />
+    <published>2023-09-09T00:00:00-05:00</published>
+  
+    <updated>2023-09-09T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Medications/</id>
+    <content src="http://localhost:4000/posts/Medications/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Treatment" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I seem to already be predispositioned to issues with medications.
+
+
+
+Especially to medications that use Cyp2c19 (A,A)
+https://www.snpedia.com/index.php/Rs4244285
+High amount of studies + rare in N. America (common in Asia 30%?)
+Nonetheless I’ve been told to not put much weight in these studies from quite a few medical professionals so I suppose it’s all just my hypothetical ramblings.
+
+disclaim...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Diagnoses</title>
+    <link href="http://localhost:4000/posts/Diagnoses/" rel="alternate" type="text/html" title="Diagnoses" />
+    <published>2023-09-09T00:00:00-05:00</published>
+  
+    <updated>2023-09-09T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Diagnoses/</id>
+    <content src="http://localhost:4000/posts/Diagnoses/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Diagnoses" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I know these are shit diagnoses. I haven’t found an objective answer so I get trash labels slapped on me.
+
+Vasovagal Syncope
+Diagnosed when I kept fainting. I always thought this condition was fainging over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dige...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Symptoms</title>
+    <link href="http://localhost:4000/posts/Symptoms/" rel="alternate" type="text/html" title="Symptoms" />
+    <published>2023-01-09T00:00:00-05:00</published>
+  
+    <updated>2023-01-09T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Symptoms/</id>
+    <content src="http://localhost:4000/posts/Symptoms/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Symptoms" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Due to the various issues below, I’m unable to drive. I’ve definitely tried until my brain just shuts down from the stress of the symptoms and I hit a curb. Many HCW still encouraged me to keep driving…
+
+Cardiovascular Symptoms:
+
+Fainting episodes (usually precipitated by gastro pain) 
+Positional Tachycardia (occasional) 
+Low blood pressure (managed)
+
+Menstrual Symptoms:
+
+Heavy and painful peri...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Vestibular Therapy</title>
+    <link href="http://localhost:4000/posts/Vestibular_Therapy/" rel="alternate" type="text/html" title="Vestibular Therapy" />
+    <published>2021-09-09T00:00:00-05:00</published>
+  
+    <updated>2021-09-09T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Vestibular_Therapy/</id>
+    <content src="http://localhost:4000/posts/Vestibular_Therapy/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Treatment" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Initial testing
+In 2018, I had originally had my first vestibular tests and VRT recommendations. At the time I had put this off due to financial issues. I realized I could just do these at home so what sense would it make to pay thousands of dollars when I could use that money for a second opinion or further investigation?
+
+Vestibular Therapy
+Many years went by and I had some extra health surpr...
     </summary>
   
 
