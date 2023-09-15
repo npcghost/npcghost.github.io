@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2023-09-15T14:29:19-05:00</updated>
+  <updated>2023-09-15T14:35:38-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -108,7 +108,7 @@ Headache nas...
     <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications and Supplements" />
     <published>2023-09-09T00:00:00-05:00</published>
   
-    <updated>2023-09-13T15:40:26-05:00</updated>
+    <updated>2023-09-15T14:31:29-05:00</updated>
   
     <id>http://localhost:4000/posts/Medications/</id>
     <content src="http://localhost:4000/posts/Medications/" />
@@ -151,7 +151,7 @@ disclaimer: this is just one of many variants tha...
     <link href="http://localhost:4000/posts/Diagnoses/" rel="alternate" type="text/html" title="Diagnoses" />
     <published>2023-09-09T00:00:00-05:00</published>
   
-    <updated>2023-09-13T15:40:26-05:00</updated>
+    <updated>2023-09-15T14:31:29-05:00</updated>
   
     <id>http://localhost:4000/posts/Diagnoses/</id>
     <content src="http://localhost:4000/posts/Diagnoses/" />
