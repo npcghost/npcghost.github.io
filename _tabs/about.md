@@ -3,5 +3,4 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-I'm trying my best ok
+I'm dizzy, anxious, my stomach hurts, and I'm mad at the government. 

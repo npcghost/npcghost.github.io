@@ -10,7 +10,8 @@ I know these are shit diagnoses. I haven't found an objective answer so I get tr
 
 ### Vasovagal Syncope
 <details>
-Diagnosed when I kept fainting. I always thought this condition was fainging over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, digestive issues. These were pretty intense to me as I'd feel overwhelming pain and eventually my legs would go paralyzed, I'd go deaf and blind,... sometimes crawling around while losing consciousness over and over again. I'd go into convulsions while passed out. A few times others said my lips and eyelids turned blue. I suppose that still puts me in the same category as fainting over the sight of blood. Perhaps the mechanism is the same but I hated never knowing why mine were so particularly bad.   
+Diagnosed when I kept fainting. I always thought this condition was fainting over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, digestive issues. These were pretty intense to me as I'd feel overwhelming pain and eventually my legs would go paralyzed, I'd go deaf and blind,... sometimes crawling around while losing consciousness over and over again. I'd go into convulsions while passed out. A few times others said my lips and eyelids turned blue. I suppose that still puts me in the same category as fainting over the sight of blood. Perhaps the mechanism is the same but I hated never knowing why mine were so particularly bad. Why I could handle substantial pain externally but not internall.    
+
 </details>
 
 ### Depression
@@ -25,10 +26,13 @@ I will admit that ever since I got sick I've been constantly in a state of worry
 
 ### Vestibular Migraines
 <details>
+<a href="https://dizziness-and-balance.com/disorders/central/migraine/mav.html"> VM Summary </a>  
+<br>  
 This was an odd one. I started getting vertigo attacks years after my autonomic issues. These things are the most debilitating and horrifying attacks ever to me. On my worst attack, I couldn't move for 20hrs and for another 15hrs I was crawling and bedridden. The room wouldn't stop spinning and I "blacked out" psychologically several times from being so overwhelmed. Yeah that also means laying in your own excrements...   
  After this I had several similar but shorter attacks. Ruled out BPPV. They diagnosed me with menieres but retracted it when my hearing came back fine. I wanted to try the steroid shots so I was bummed that I'd have to prove meniere's before being able to try this. 
 Eventually the diagnosis of Vestibular Migraines was reached. 
 I haven't had a 30+hr attack but will often still have the hour long ones. Whatever anyone wants to call it, they are the worst thing in my life right now. 
+
 </details>
 
 ### Panic Attacks 

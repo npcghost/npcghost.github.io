@@ -1,17 +1,19 @@
 ---
-title: Medications
-category: Medications
+title: Medications and Supplements
+category: Treatments
 tags: [medications]
 date: 09-09-2023
 ---
+
+
 
 I seem to already be predispositioned to issues with medications. 
 
 
 ![pharma summary](/assets/img/pharmacogenomic.png)
 
-Especially to medications that use Cyp2c19 (A,A)  
-https://www.snpedia.com/index.php/Rs4244285  
+<a href="https://www.snpedia.com/index.php/Rs4244285">  Especially to medications that use Cyp2c19 (A,A)  
+</a>
 High amount of studies + rare in N. America (common in Asia 30%?)  
 Nonetheless I've been told to not put much weight in these studies from quite a few medical professionals so I suppose it's all just my hypothetical ramblings. 
 
@@ -19,10 +21,10 @@ Nonetheless I've been told to not put much weight in these studies from quite a 
 
 <br>
 <br>
- 
+
 ## Medications I've tried
 <i>
-YMMV . My current set of issues can influence how medications affect me much differently than someone with a different set of symptoms. Poor drug metabolism is also a factor here. I am also aware that some of these effects can be attributed to the 'nocebo' or 'placebo' effect, and they can even be influenced by what you ate that day. However, the side effects I experienced or assumed were so strong at times that I am wary about trying it again. Also I've never had the ability to take more than a few days away from work so I often had to stop treatment if I couldn't be bedridden for very long.  </i>
+YMMV . My current set of issues can influence how medications affect me much differently than someone with a different set of symptoms. Poor drug metabolism is also a factor here. I am also aware that some of these effects can be attributed to the 'nocebo' or 'placebo' effect, and they can even be influenced by what you ate that day. However, the side effects I experienced or assumed were so strong at times that I am wary about trying it again and have a fear of medications. Obviously I still tried as the list below shows. Also I've never had the ability to take more than a few days away from work so I often had to stop treatment if I couldn't be bedridden for very long.  </i>
  
 
 ### Benadryl  
@@ -217,7 +219,7 @@ Very sick - fever, sweating
 
 	
 ### Piracetam  
-<i>yes I mean piracetam and not paracetamol </i>
+<i>yes I mean piracetam and not paracetamol. </i>
 Debilitating long brain zaps    
 <details><summary>info</summary> Was kind of winging experimental medications when I first got sick and thought this would help my fatigue and brain fog. It didn't seem to do anything beneficial and started giving me very long brain zaps. I still remember one that lasted 10 minutes straight. I thought I was going to drift into a seizure.  
 </details> <br> 
@@ -235,8 +237,8 @@ Mild side effects, causes headaches, effective laxative
 ### Tanganil   
 no side effects, unsure if useful <details><summary>info</summary> This also doesn't appear to be available in the states so I got this from very legal means as well. No side effects, but not effects of any kind either. 
 It's supposed to help both hypotensions and central vertigo/balance issues so I was really hoping this would be a match. 
-
-</details> <br> 
+</details> 
+<br> 
   
 
 ### Prochlorperazine 	
@@ -256,6 +258,7 @@ heart palpitations
 ### Famotidine  
 helps tachycardia and air hunger  
 <details><summary>info</summary> Seems to greatly benefit shortness of breath and overall that flushed/adrenaline feeling. Realized later this often is used for mcas symptoms https://ncbi.nlm.nih.gov/pmc/articles/PMC8021898/
+Also apparentlly a lot of people with ALDH2 deficiencies take this to avoid skin flushing with alcohol. 
 </details> <br> 
 
 
@@ -263,7 +266,7 @@ helps tachycardia and air hunger
 	
 ### Probiotics  
 Didn't work at first but then relieved a post viral gi issues I acquired. Certain kinds cause headaches. 
-<details><summary>info</summary> add text
+<details><summary>info</summary> Early 2023 I was down with a virus of some sort. When I recovered I had.. some really interesting/embarrassing gi issues that kept me confined near a bathroom at all times. This didn't stop for a month and I ordered visbiome. Within 3 days I regained control of everything. Not only that but after a few weeks my gi issues were better than before I started it. When I try to taper down it returns however.  
 </details> <br> 
 
 	
@@ -274,7 +277,8 @@ good for jitters, often combined with coffee. Doesn't seem to help vertigo much
 <details><summary>info</summary> add text
 </details> <br> 
  
-
+### NAC
+Caused shortness of breath, may try again with molybdenum since the air hunger could be a result of sulfur buildup. 
 	
 	
 ### LDN  
@@ -295,7 +299,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6313374/
 ### Phenibut  
 This was supposed to help vertigo and social anxiety, but it made everything so much worse.  
 <details><summary>info</summary> I've always noted to take special caution with any medications directly targeting gaba/dopamine. This is such a controversial drug. Unregulated gaba type drug from Russia. High potential for abuse and addiction occurs faster than Benzodiazepines. Similar withdrawals. 
-Technically still legal but it's poor reputation has caused most vendors to stop selling it. I think I got mine from liftmode recently which has had QC issues but there's not really a better vendor it seems.  
+Technically still legal but its poor reputation has caused most vendors to stop selling it. I think I got mine from liftmode recently which has had QC issues but there's not really a better vendor it seems.  
 
 
 </details> <br> 
@@ -314,8 +318,10 @@ Felt tingly but didn't seem to mess with my BP or heart rate by much. It works f
 I don't "feel" anything. When I confront something that causes vertigo or panic, it seems to stop it? Perhaps I need to do a test and have someone give me a real one and then a sugar pill occasionally and then chart my results. I also realize delusions of sobriety is a thing with this but I doubt I would ever reach that on such low doses.   
 I do have issues standing at a counter 100% of the time and it was so incredible to stand there without any PPPD.  
 
-<details><summary>More details</summary> Took a lot out of me to ask for this and I am now scared to ask for more. All my previous doctors didn't seem to want to prescribe it. My attacks can be back to back and last all day. To a point I can't move or have to crawl. There seems to be very high success with this drug stopping that. It would not only stop the attack but prevent them from being disabled for weeks later since the length of the attack affects recovery. I'd say upwards of 90% of patients were able to escape terrible consequences of vertigo attacks with this. The vestibular patients really encouraged I try to get this. And that yes I risk being labeled as drug seeking unfortunately.    
+I already am fully aware of the consequences the come with daily use. This is just a rescue med for me.  
 
+<details><summary>More details</summary> Took a lot out of me to ask for this and I am now scared to ask for more. All my previous doctors didn't seem to want to prescribe it. My attacks can be back to back and last all day. To a point I can't move or have to crawl. There seems to be very high success with this drug stopping that. It would not only stop the attack but prevent them from being disabled for weeks later since the length of the attack affects recovery. I'd say upwards of 90% of patients were able to escape terrible consequences of vertigo attacks with this. The vestibular patients really encouraged I try to get this. And that yes I risk being labeled as drug seeking unfortunately.    
+   
 It was really upsetting to me that many were just denied this. That you can lose your job, your house, your family, everything all because no one wanted to trust you with a particular medication.   
 
 

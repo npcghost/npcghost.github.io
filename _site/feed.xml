@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2023-09-13T15:39:24-05:00</updated>
+  <updated>2023-09-15T14:29:19-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,95 @@
 
   
   <entry>
-    <title>Medications</title>
-    <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications" />
+    <title>Vestibular Psychiatric Connection</title>
+    <link href="http://localhost:4000/posts/Vestibular_psych/" rel="alternate" type="text/html" title="Vestibular Psychiatric Connection" />
+    <published>2023-09-15T00:00:00-05:00</published>
+  
+    <updated>2023-09-15T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Vestibular_psych/</id>
+    <content src="http://localhost:4000/posts/Vestibular_psych/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Studies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    Introduction 
+The vestibular system has traditionally been thought of as a balance apparatus that is related to brain disorders only when co-morbid symptoms include balance compromise, such as in Meniere′s disease and Parkinson′s disease. However, accumulating research suggests an association between vestibular function and psychiatric disorders, even when balance is apparently unaffect...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DIY</title>
+    <link href="http://localhost:4000/posts/DIY/" rel="alternate" type="text/html" title="DIY" />
+    <published>2023-09-15T00:00:00-05:00</published>
+  
+    <updated>2023-09-15T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/DIY/</id>
+    <content src="http://localhost:4000/posts/DIY/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Treatments" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      DIY. Because the people saying “Better safe than sorry” aren’t the ones getting the bills in the end.
+
+Also reminder there are ways to obtain non controlled prescription meds w/o prescription.
+
+Medications:
+
+Xerese
+cold sore medication  
+Price ~$1k (why is this so expensive wtf)
+Alternative: Grind 800mg acyclovir + melted cortibalm . Place cortibalm back into original container.
+
+
+
+Headache nas...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Medications and Supplements</title>
+    <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications and Supplements" />
     <published>2023-09-09T00:00:00-05:00</published>
   
-    <updated>2023-09-09T00:00:00-05:00</updated>
+    <updated>2023-09-13T15:40:26-05:00</updated>
   
     <id>http://localhost:4000/posts/Medications/</id>
     <content src="http://localhost:4000/posts/Medications/" />
@@ -34,7 +118,7 @@
 
   
     
-    <category term="Medications" />
+    <category term="Treatments" />
     
   
 
@@ -50,12 +134,12 @@
 
 
 
-Especially to medications that use Cyp2c19 (A,A)
-https://www.snpedia.com/index.php/Rs4244285
+  Especially to medications that use Cyp2c19 (A,A)
+
 High amount of studies + rare in N. America (common in Asia 30%?)
 Nonetheless I’ve been told to not put much weight in these studies from quite a few medical professionals so I suppose it’s all just my hypothetical ramblings.
 
-disclaim...
+disclaimer: this is just one of many variants tha...
     </summary>
   
 
@@ -67,7 +151,7 @@ disclaim...
     <link href="http://localhost:4000/posts/Diagnoses/" rel="alternate" type="text/html" title="Diagnoses" />
     <published>2023-09-09T00:00:00-05:00</published>
   
-    <updated>2023-09-09T00:00:00-05:00</updated>
+    <updated>2023-09-13T15:40:26-05:00</updated>
   
     <id>http://localhost:4000/posts/Diagnoses/</id>
     <content src="http://localhost:4000/posts/Diagnoses/" />
@@ -93,7 +177,7 @@ disclaim...
 
 Vasovagal Syncope
 
-Diagnosed when I kept fainting. I always thought this condition was fainging over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dig...
+Diagnosed when I kept fainting. I always thought this condition was fainting over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dig...
     </summary>
   
 
@@ -138,86 +222,6 @@ Low blood pressure (managed)
 Menstrual Symptoms:
 
 Heavy and painful peri...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Summary of tests I've done</title>
-    <link href="http://localhost:4000/posts/Tests/" rel="alternate" type="text/html" title="Summary of tests I&amp;apos;ve done" />
-    <published>2022-09-09T00:00:00-05:00</published>
-  
-    <updated>2022-09-09T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Tests/</id>
-    <content src="http://localhost:4000/posts/Tests/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Tests" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-Tests completed
-
-VNG and caloric
-conclusion of central vertigo
-
-Couldn’t finish Caloric but this appears to be common with migraine related vertigo Neuro-otological findings in patients with migraine- and nonmigraine-related dizziness?
- side note, caloric caused a massive vertigo attack and I started sweating and shaking so she stopped the test and told me I really don't have to do it so I wa...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Vestibular Therapy</title>
-    <link href="http://localhost:4000/posts/Vestibular_Therapy/" rel="alternate" type="text/html" title="Vestibular Therapy" />
-    <published>2021-09-09T00:00:00-05:00</published>
-  
-    <updated>2021-09-09T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Vestibular_Therapy/</id>
-    <content src="http://localhost:4000/posts/Vestibular_Therapy/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Treatment" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Initial testing
-In 2018, I had originally had my first vestibular tests and VRT recommendations. At the time I had put this off due to financial issues. I realized I could just do these at home so what sense would it make to pay thousands of dollars when I could use that money for a second opinion or further investigation?
-
-Vestibular Therapy
-Many years went by and I had some extra health surpr...
     </summary>
   
 

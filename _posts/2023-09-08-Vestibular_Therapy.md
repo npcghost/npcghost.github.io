@@ -1,6 +1,6 @@
 ---
 title: Vestibular Therapy
-category: Treatment
+category: Treatments
 tags: [vrt,vestibular therapy, physical therapist, covid vaccine, paratransit, insurance]
 date: 09-09-2021
 
@@ -18,7 +18,7 @@ Despite this, the first thing the vestibular therapist asked me was if I recentl
 
 Regardless, we dropped the subject and continued with treatment. 
 
-I was scheduled to be there 2 days a week. I was unable to drive the distance to this area. It was in an adjoined city. So taking an uber/lyft would get me there but I'd have no way of getting home. And perhaps I'm just not understanding things socially but I didn't have anyone available to be there for me 2x a week and assumed this was a normal problem for others but the workers seemed to be frustrated with me on this topic. 
+I was scheduled to be there 2 days a week. I was unable to drive the distance to this area. It was in an adjoined city. So taking an uber/lyft would get me there but I'd have no way of getting home because the starting destination had no drivers. And perhaps I'm just not understanding things socially but I didn't have anyone available to be there for me 2x a week and assumed this was a normal problem for others but the workers seemed to be frustrated with me on this topic. 
 Nonetheless I discovered that I could use paratransit if my PT cooperated with the paperwork which she did. Why didn't she suggest this in the first place? Again... maybe I truly am so isolated that I saw the prospect of having someone there for me at all times as incredulous. 
 
 The exercises always temporarily corrected my balance disorder but the next large vertigo attack would set me back. As I've always known this to be an issue and explained it to them. They had to see it for themselves and also came to the conclusion in the end that until my vertigo attacks stop, the balance correction will always be set back. 

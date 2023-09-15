@@ -7,7 +7,10 @@ tags: [malingering, side effects, pt, lexapro,vrt]
 ---
 
 <i>
-I have trust issues with healthcare workers due to negative experiences despite my efforts to cooperate. I sought a psychologist for insight, but can't continue due to cost. People do think I'm apathetic, which might influence healthcare workers negatively, though it's unreasonable to expect perfect cheerfulness when I'm ill. Their poor judgements have costed me financially and could negatively effect my care, especially since my medical conditions are hard to prove.  </i> 
+I have trust issues with healthcare workers due to negative experiences despite my efforts to cooperate. I sought a psychologist for insight, but can't continue due to cost. People do think I'm apathetic, which might influence healthcare workers negatively, though it's unreasonable to expect perfect cheerfulness when I'm ill. Their poor judgements have costed me financially and could negatively effect my care, especially since my medical conditions are hard to prove.  
+
+I currently don't drink or smoke. Exercise regularly. Normal BMI. Maybe when they run out of things to blame, they default to judging your character. 
+</i> 
 
 
 
@@ -55,11 +58,11 @@ After the appointment, I cried. I spent months pulling overtime for this, being 
 </details>
 
 
-## Proof
+### Proof
 <details><summary>screenshots from online forums</summary>
 I thought it was something I was doing wrong for a while until I realized this is just what happens when you have these symptoms and no answers.   
-Got me a bit curious about why, with all their education, they can assume malice/laziness so confidently. I personally know the symptoms I have are debilitating and very real so how many others are they treating poorly? Apparently a lot.   
-There's also quite a few web forums particularly designed to follow patient's social media pages and after reading over these for a long time I've noticed many are healthcare workers themselves. They laugh at and mock the patients even when they die. Constantly following them. Their discussions come up when you search for that patient's alias. Even after their death they continue to follow the patient's families and remark how much happier their family must be without them.  
+Got me a bit curious about why, with all their education, they can assume malice/laziness so confidently. I personally know the symptoms I have are debilitating and very real so how many others are they treating poorly? Apparently a lot.    <br>
+There's also quite a few web forums particularly designed to follow patient's social media pages and after reading over these for a long time I've noticed many are healthcare workers themselves. They laugh at and mock the patients even when they die. Constantly following them. Their discussions come up when you search for that patient's alias. Even after their death they continue to follow the patient's families and remark how much happier their family must be without them.  <br>
 Funny enough when HCWs get a condition like this themselves it goes one of two ways. It's so mild that they can continue working and double down on their theories that the patients are drama queens, or if they have to quit working, the medical system turns against them. 
 
 Another reason I'm not really getting much worked up anymore. 
