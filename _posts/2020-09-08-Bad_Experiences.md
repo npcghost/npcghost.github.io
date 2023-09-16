@@ -63,8 +63,8 @@ Another reason I'm not really getting much worked up anymore.
 <img src="/assets/img/reddit1.jpg">
 <br>
 <img src="/assets/img/reddit2.PNG">
-
-
+<br>
+<img src="/assets/img/reddit3.jpg">
 
 
 </details>
