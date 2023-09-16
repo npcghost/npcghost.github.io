@@ -320,12 +320,12 @@ I do have issues standing at a counter 100% of the time and it was so incredible
 
 I already am fully aware of the consequences the come with daily use. This is just a rescue med for me.  
 
-<details><summary>More details</summary> Took a lot out of me to ask for this and I am now scared to ask for more. All my previous doctors didn't seem to want to prescribe it. My attacks can be back to back and last all day. To a point I can't move or have to crawl. There seems to be very high success with this drug stopping that. It would not only stop the attack but prevent them from being disabled for weeks later since the length of the attack affects recovery. I'd say upwards of 90% of patients were able to escape terrible consequences of vertigo attacks with this. The vestibular patients really encouraged I try to get this. And that yes I risk being labeled as drug seeking unfortunately.    
+<details><summary>More details</summary> Took a lot out of me to ask for this and I am now scared to ask for more. All my previous doctors didn't seem to want to prescribe it. My attacks can be back to back and last all day. To a point I can't move or have to crawl. There seems to be very high success with this drug stopping that. It would not only stop the attack but prevent them from being disabled for weeks later since the length of the attack affects recovery. I'd say upwards of 90% of patients were able to escape terrible consequences of vertigo attacks with this. The vestibular patients really encouraged I try to get this. And that yes I risk being labeled as drug seeking unfortunately.  
    
-It was really upsetting to me that many were just denied this. That you can lose your job, your house, your family, everything all because no one wanted to trust you with a particular medication.   
+It was really upsetting to me that many were just denied this. That you can lose your job, your house, your family, everything all because no one wanted to trust you with a particular medication.  
 
 
-That being said, I am so grateful my Dr trusts me with this. 
+That being said, I am so grateful my Dr trusts me with this. But I've already lost almost everything at this point already. 
 </details> <br> 
  
  

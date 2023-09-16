@@ -7,9 +7,7 @@ tags: [malingering, side effects, pt, lexapro,vrt]
 ---
 
 <i>
-I have trust issues with healthcare workers due to negative experiences despite my efforts to cooperate. I sought a psychologist for insight, but can't continue due to cost. People do think I'm apathetic, which might influence healthcare workers negatively, though it's unreasonable to expect perfect cheerfulness when I'm ill. Their poor judgements have costed me financially and could negatively effect my care, especially since my medical conditions are hard to prove.  
-
-I currently don't drink or smoke. Exercise regularly. Normal BMI. Maybe when they run out of things to blame, they default to judging your character. 
+I have trust issues
 </i> 
 
 
@@ -25,7 +23,7 @@ I used to disregard mild side effects, thinking they might be from something els
 
 I called my doctor's office, and they assured me these initial symptoms were normal, suggesting I take the prescribed hydroxyzine alongside it. Trusting my doctor, I tried to ignore the symptoms. However, on the seventh day, I woke up, got ready for work, and suddenly felt a shock up my spine. I lost sensation in my limbs, collapsed, and experienced total paralysis with no breathing or heartbeat. It was a terrifying experience, and I couldn't even scream. After a minute, I regained feeling and hyperventilated.
 
-My boyfriend at the time couldn't help due to work, and I called my doctor's office, who advised me to come in without driving. They found elevated vitals and nystagmus but didn't see anything requiring an ER visit. Strangely, my doctor insisted I continue the medication and claimed it was just a placebo in the first month. His reaction left a lasting fear of medication, as I worry there won't be help if something goes wrong. I should have changed doctors, but I hesitated due to the time invested with him and self-doubt about my actions during this incident.
+I called my doctor's office, who advised me to come in without driving. They found elevated vitals and nystagmus but didn't see anything requiring an ER visit. Strangely, my doctor insisted I continue the medication and claimed it was just a placebo in the first month. His reaction left a lasting fear of medication, as I worry there won't be help if something goes wrong. I should have changed doctors, but I hesitated due to the time invested with him and self-doubt about my actions during this incident.
 Also he had agreed to do further testing as I felt something was very wrong.  
 
 </details> 
@@ -48,15 +46,10 @@ I've been warned that this incident could harm future attempts at Social Securit
 
 </details>
 
-### Broken promises 
-<details><summary> self explanatory </summary> 
-I get it, the healthcare system is a mess and only getting worse. I'm not new to promises being broken in my life. But when it's my health it kind of stings more I guess. 
-I'm ok with someone admitting not being able to deliver. But it can ruin my entire year or life if you set me up with the expectation and drop it. 
-I have to schedule time off work and a ride to leave the city. And the person giving me a ride has to take time off work too. And then the bill I get that's hundreds possibly thousands of dollars. And I collapse daily to make that kind of money. I was referred to a large teaching hospital and was told on the first visit she's going to review my records and try to figure out a solution for me. I honestly worked my ass off saving money for months thinking "she's working on my case". How absolutely stupid and naive of me.  
-When I returned I realize she had done none of this and couldn't even ready my chart correctly. I noticed her web searching as we spoke which I don't mind but she landed on a page I had already read and was misinterpreting the article. I'm not sure how she would have reacted to me saying 'I read that' so I asked her if she was sure, and that I thought it was something else. She re-read the page and said oh yes, that's correct. She seemed too distracted eating a sandwhich and was in a rush for some reason.     
-After the appointment, I cried. I spent months pulling overtime for this, being so hopeful. Moments later I saw her leaving and going across the street to get another sandwhich. 
+### ER Visit
+<details><summary> Only once I've gone to the ER and don't think I will again unless the cause extremely obvious</summary> 
+I went to the ER a long time ago because I kept fainting over and over. I was barely conscious and they kept accusing me of drug use while I was too confused and out of it to understand why they were so insistent on me "fessing up". Lectured me for using weed when I was younger and blamed it on that. Wrote on my chart that I am involved in illicit drug use. Then blamed it on the one cup of coffee I had that morning. I tried to show them everytime I stood up, everything would crash but they kept forcing me to lay back down and wouldn't catch it on any monitors. I was drug tested which was clean and they didn't say anything much after that... wheeled into the billing department then told to leave. I sat outside continuing to pass out on the sidewalk. Made me feel both worse and better when I found out this was a common thing for patients and even happened to a few others I know of. 
 </details>
-
 
 ### Proof
 <details><summary>screenshots from online forums</summary>
