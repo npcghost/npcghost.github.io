@@ -16,7 +16,7 @@ Diagnosed when I kept fainting. I always thought this condition was fainting ove
 
 ### Depression
 <details>
-They gave me this required survey thing with questionnaires that didn't make much sense to me since a lot of the answers could be misconstrued with being ill. Like not socializing much, having little energy. But I suppose that led to my depression diagnosis. Ha 
+They gave me this required survey with questionnaires that didn't make much sense to me since a lot of the answers could be misconstrued with being ill. Like not socializing much, having little energy. But I suppose that led to my depression diagnosis.  
 </details>
 
 ### GAD
