@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2023-09-15T20:40:43-05:00</updated>
+  <updated>2024-05-03T09:05:13-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,49 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 NPCghost </rights>
+  <rights> © 2024 NPCghost </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Progress and Future attempts</title>
+    <link href="http://localhost:4000/posts/Progress/" rel="alternate" type="text/html" title="Progress and Future attempts" />
+    <published>2024-05-02T00:00:00-05:00</published>
+  
+    <updated>2024-05-02T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Progress/</id>
+    <content src="http://localhost:4000/posts/Progress/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Todo_Progress" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      As of 5/2/24 I have reduced POTS, PPPD, and IBS. 
+
+Vertigo attacks are still to date the most intense thing I think I will ever experience. 
+Once I was able to quell severe attacks with ativan, I no longer feared them in the same way.
+
+I also got a head start on things as I had fallen ill with a gastrointestinal illness and I was having issues with it not being eradicated. I was basically barel...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -50,6 +89,40 @@
   
     Introduction 
 The vestibular system has traditionally been thought of as a balance apparatus that is related to brain disorders only when co-morbid symptoms include balance compromise, such as in Meniere′s disease and Parkinson′s disease. However, accumulating research suggests an association between vestibular function and psychiatric disorders, even when balance is apparently unaffect...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Misc Studies</title>
+    <link href="http://localhost:4000/posts/Misc_studies/" rel="alternate" type="text/html" title="Misc Studies" />
+    <published>2023-09-15T00:00:00-05:00</published>
+  
+    <updated>2023-09-15T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Misc_studies/</id>
+    <content src="http://localhost:4000/posts/Misc_studies/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Studies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Amphetamines improve tolerance to stimulation with rotations [163]. The use of amphetamines in combination with scopolamine or antihistaminics increased the antivertiginous effect and reduced the secondary sedation produced by antihistaminics and anticholinergic drugs. Ephedrine seems to be as effective as amphetamines in increasing the effectiveness of drugs used for the control of movement di...
     </summary>
   
 
@@ -110,40 +183,6 @@ Earache without perforation -
 
   
   <entry>
-    <title>Misc Studies</title>
-    <link href="http://localhost:4000/posts/DIY-copy/" rel="alternate" type="text/html" title="Misc Studies" />
-    <published>2023-09-15T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/DIY-copy/</id>
-    <content src="http://localhost:4000/posts/DIY-copy/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Studies" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Amphetamines improve tolerance to stimulation with rotations [163]. The use of amphetamines in combination with scopolamine or antihistaminics increased the antivertiginous effect and reduced the secondary sedation produced by antihistaminics and anticholinergic drugs. Ephedrine seems to be as effective as amphetamines in increasing the effectiveness of drugs used for the control of movement di...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
     <title>Medications and Supplements</title>
     <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications and Supplements" />
     <published>2023-09-09T00:00:00-05:00</published>
@@ -180,44 +219,6 @@ High amount of studies + rare in N. America (common in Asia 30%?)
 Nonetheless I’ve been told to not put much weight in these studies from quite a few medical professionals so I suppose it’s all just my hypothetical ramblings.
 
 disclaimer: this is just one of many variants tha...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Diagnoses</title>
-    <link href="http://localhost:4000/posts/Diagnoses/" rel="alternate" type="text/html" title="Diagnoses" />
-    <published>2023-09-09T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T14:31:29-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Diagnoses/</id>
-    <content src="http://localhost:4000/posts/Diagnoses/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Diagnoses" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      I know these are shit diagnoses. I haven’t found an objective answer so I get trash labels slapped on me.
-
-Vasovagal Syncope
-
-Diagnosed when I kept fainting. I always thought this condition was fainting over a common fear trigger like sight of blood, needles, etc. When faced with a fear I do not pass out. These events happened spontaniously. Sometimes after a meal, temp changes, infections, dig...
     </summary>
   
 
