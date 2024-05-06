@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2024-05-03T16:19:06-05:00</updated>
+  <updated>2024-05-05T20:20:21-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -96,6 +96,42 @@ The vestibular system has traditionally been thought of as a balance apparatus t
 
   
   <entry>
+    <title>Neurotech</title>
+    <link href="http://localhost:4000/posts/Neurotech/" rel="alternate" type="text/html" title="Neurotech" />
+    <published>2023-09-15T00:00:00-05:00</published>
+  
+    <updated>2023-09-15T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Neurotech/</id>
+    <content src="http://localhost:4000/posts/Neurotech/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Studies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A person of interest I’ve been following in particular has been Nita Farahany that often demonstrates/discusses various types of neurotech being introduced into government/corporations.
+
+Often matters of  Havana Syndrome  and the ability for devices to be used to transmit feelings into users comes into discussions. It has been recently demonstrated that while we are still in primitive developme...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Misc Studies</title>
     <link href="http://localhost:4000/posts/Misc_studies/" rel="alternate" type="text/html" title="Misc Studies" />
     <published>2023-09-15T00:00:00-05:00</published>
@@ -122,7 +158,7 @@ The vestibular system has traditionally been thought of as a balance apparatus t
 
 
 
-      Amphetamines improve tolerance to stimulation with rotations [163]. The use of amphetamines in combination with scopolamine or antihistaminics increased the antivertiginous effect and reduced the secondary sedation produced by antihistaminics and anticholinergic drugs. Ephedrine seems to be as effective as amphetamines in increasing the effectiveness of drugs used for the control of movement di...
+      https://pubmed.ncbi.nlm.nih.gov/9501247/ Increase in the cerebrospinal fluid content of neurosteroids in patients with unipolar major depression who are receiving fluoxetine or fluvoxamine We recently reported that fluoxetine or paroxetine, two selective serotonin reuptake inhibitors (SSRIs), when administered to rats, increase the brain content of the neurosteroid 3alpha-hydroxy-5alpha-pregnan...
     </summary>
   
 
@@ -176,49 +212,6 @@ Headache nasal spray-
 Numbing ear drops
 Earache without perforation - 
 -1g...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Medications and Supplements</title>
-    <link href="http://localhost:4000/posts/Medications/" rel="alternate" type="text/html" title="Medications and Supplements" />
-    <published>2023-09-09T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T20:27:20-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Medications/</id>
-    <content src="http://localhost:4000/posts/Medications/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Treatments" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      I seem to already be predispositioned to issues with medications.
-
-
-
-  Especially to medications that use Cyp2c19 (A,A)
-
-High amount of studies + rare in N. America (common in Asia 30%?)
-Nonetheless I’ve been told to not put much weight in these studies from quite a few medical professionals so I suppose it’s all just my hypothetical ramblings.
-
-disclaimer: this is just one of many variants tha...
     </summary>
   
 

@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
-I'm dizzy, anxious, my stomach hurts, and I'm mad at the government. 
+My tummy hurts and I'm mad at the government. 
