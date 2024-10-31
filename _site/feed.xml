@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2024-05-05T20:20:21-05:00</updated>
+  <updated>2024-10-31T09:36:43-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,87 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>CGM</title>
+    <link href="http://localhost:4000/posts/CGM/" rel="alternate" type="text/html" title="CGM" />
+    <published>2024-08-29T00:00:00-05:00</published>
+  
+    <updated>2024-08-29T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/CGM/</id>
+    <content src="http://localhost:4000/posts/CGM/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Todo_Progress" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Acquired a CGM - Stelo
+
+
+They seemed to have designed this to not alert for hypoglycemia or show levels below 70. I had to obtain a secondary app called Dexcom Clarity so I could see the raw data which doesn’t appear immediately.
+Apparently it’s considered a medical event that is to be handled by a dr if it falls below 70 so they can’t show/alert.
+
+I’d like to get one that alerts hypoglycemia b...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Possible Causes</title>
+    <link href="http://localhost:4000/posts/Possible-Diagnoses/" rel="alternate" type="text/html" title="Possible Causes" />
+    <published>2024-08-29T00:00:00-05:00</published>
+  
+    <updated>2024-08-29T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Possible-Diagnoses/</id>
+    <content src="http://localhost:4000/posts/Possible-Diagnoses/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Todo_Progress" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I’d like to rule out the following but have a feeling it is nearly impossible due to:
+
+
+  
+    Human error. Many of these tests are sensitive, meaning there's a higher likelihood of data mistenterpretation/human error than there is of an actual correct workflow of actions from person a through z.  
+  
+  
+    Cost + transportation + time off work.It would take multiple visits (even multiple visi...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -125,93 +206,6 @@ The vestibular system has traditionally been thought of as a balance apparatus t
       A person of interest I’ve been following in particular has been Nita Farahany that often demonstrates/discusses various types of neurotech being introduced into government/corporations.
 
 Often matters of  Havana Syndrome  and the ability for devices to be used to transmit feelings into users comes into discussions. It has been recently demonstrated that while we are still in primitive developme...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Misc Studies</title>
-    <link href="http://localhost:4000/posts/Misc_studies/" rel="alternate" type="text/html" title="Misc Studies" />
-    <published>2023-09-15T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Misc_studies/</id>
-    <content src="http://localhost:4000/posts/Misc_studies/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Studies" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      https://pubmed.ncbi.nlm.nih.gov/9501247/ Increase in the cerebrospinal fluid content of neurosteroids in patients with unipolar major depression who are receiving fluoxetine or fluvoxamine We recently reported that fluoxetine or paroxetine, two selective serotonin reuptake inhibitors (SSRIs), when administered to rats, increase the brain content of the neurosteroid 3alpha-hydroxy-5alpha-pregnan...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DIY</title>
-    <link href="http://localhost:4000/posts/DIY/" rel="alternate" type="text/html" title="DIY" />
-    <published>2023-09-15T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T20:27:20-05:00</updated>
-  
-    <id>http://localhost:4000/posts/DIY/</id>
-    <content src="http://localhost:4000/posts/DIY/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Treatments" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Reminder there are ways to obtain non controlled prescription meds w/o prescription.
-
-Medications:
-
-Xerese
-cold sore medication  
-Price ~$1k (why is this so expensive wtf)
-Alternative: Grind 800mg acyclovir + melted cortibalm . Place cortibalm back into original container.
-
-
-
-Headache nasal spray-
--Afran 15ml.
--Nasacort 15ml 
--2g benzocaine
-
-
-Numbing ear drops
-Earache without perforation - 
--1g...
     </summary>
   
 
