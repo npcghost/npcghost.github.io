@@ -55,11 +55,15 @@ jobs:
           bundle exec htmlproofer _site \
             \-\-disable-external=true \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+            
+      - name: Preload upload-artifact to fix missing v3 error
+        uses: actions/upload-artifact@v2
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
+
 
   deploy:
     environment:
