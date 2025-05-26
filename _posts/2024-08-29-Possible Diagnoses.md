@@ -40,39 +40,40 @@ For SCDS, a high-resolution CT scan of the temporal bone with very thin slices (
 </details>
 <br><br>
 
+<h3>Eagle Syndrome</h3>
 
+<details>
+  <summary>
+    Eagle syndrome is a rare condition characterized by an elongated styloid process (a small bone below the ear) or a calcified stylohyoid ligament. This can cause a variety of symptoms, including:
+ 
+  <br>
+  Pain in the throat, face, or neck<br>
+  Difficulty swallowing<br>
+  Feeling of something stuck in the throat<br>
+  Tinnitus (ringing in the ears)<br>
+  Dizziness<br>
+  Headaches<br>
+ </summary>
+  <h4><em>Diagnostic Tests</em></h4>
+  <p>To diagnose Eagle syndrome, doctors typically use:</p>
+  <p>
+    <strong>Physical Examination:</strong> Palpation of the tonsillar area to check for tenderness.<br>
+    <strong>Imaging Tests:</strong> CT scans or X-rays to visualize the elongated styloid process or calcified ligament.<br>
+  </p>
 
+  <h4><em>Specialists Involved</em></h4>
+  <p>
+    <strong>Otolaryngologists (ENT Specialists):</strong> Specialize in ear, nose, and throat conditions.<br>
+    <strong>Dentists and Oral Surgeons:</strong> Sometimes involved if symptoms relate to dental issues.<br>
+    <strong>Neurologists:</strong> Consulted for nerve-related symptoms.<br>
+  </p>
 
-
-<h3>Eagle syndrome </h3>
-<details><summary>
-Eagle syndrome is a rare condition characterized by an elongated styloid process (a small bone below the ear) or a calcified stylohyoid ligament. This can cause a variety of symptoms, including:
-
-- Pain in the throat, face, or neck
-- Difficulty swallowing
-- Feeling of something stuck in the throat
-- Tinnitus (ringing in the ears)
-- Dizziness
-- Headaches
-</summary>
-### Diagnostic Tests
-To diagnose Eagle syndrome, doctors typically use:
-- **Physical Examination**: Palpation of the tonsillar area to check for tenderness⁸.
-- **Imaging Tests**: CT scans or X-rays to visualize the elongated styloid process or calcified ligament⁶⁷.
-
-### Specialists Involved
-- **Otolaryngologists (ENT Specialists)**: These doctors specialize in ear, nose, and throat conditions and are often the primary specialists involved in diagnosing and treating Eagle syndrome⁸.
-- **Dentists and Oral Surgeons**: Sometimes involved if the symptoms are related to dental issues⁹.
-- **Neurologists**: May be consulted if there are nerve-related symptoms⁹.
-
-### Treatment Options
-- **Medications**: Pain relievers, anti-inflammatory drugs, and corticosteroid injections can help manage symptoms²³.
-- **Surgery**: The most definitive treatment involves shortening the styloid process through a procedure called styloidectomy. This can be done through the mouth or an external incision
-
+  <h4><em>Treatment Options</em></h4>
+  <p>
+    <strong>Medications:</strong> Pain relievers, anti-inflammatory drugs, and corticosteroid injections to manage symptoms.<br>
+    <strong>Surgery:</strong> The definitive treatment involves shortening the styloid process through a procedure called styloidectomy.<br>
+  </p>
 </details>
-<br>
-
-
 
 
 
@@ -82,19 +83,19 @@ To diagnose Eagle syndrome, doctors typically use:
 
 ### Diagnostic Tests
 To diagnose adrenal insufficiency, doctors typically use:
-- **Blood Tests**: These measure levels of cortisol, sodium, potassium, and adrenocorticotropic hormone (ACTH).
-- **ACTH Stimulation Test**: This involves injecting synthetic ACTH and measuring cortisol levels before and after the injection to see how the adrenal glands respond.
-- **Insulin Tolerance Test (ITT)**: Used to assess the pituitary gland's function by inducing hypoglycemia and measuring cortisol response¹⁴.
-- **CRH Stimulation Test**: Helps identify secondary adrenal insufficiency by measuring the response to corticotropin-releasing hormone (CRH).
-- **Imaging Tests**: MRI or CT scans may be used to identify any structural abnormalities in the adrenal or pituitary glands¹⁵.
+- **Blood Tests**: These measure levels of cortisol, sodium, potassium, and adrenocorticotropic hormone (ACTH).<br>
+- **ACTH Stimulation Test**: This involves injecting synthetic ACTH and measuring cortisol levels before and after the injection to see how the adrenal glands respond.<br>
+- **Insulin Tolerance Test (ITT)**: Used to assess the pituitary gland's function by inducing hypoglycemia and measuring cortisol response.<br>
+- **CRH Stimulation Test**: Helps identify secondary adrenal insufficiency by measuring the response to corticotropin-releasing hormone (CRH).<br>
+- **Imaging Tests**: MRI or CT scans may be used to identify any structural abnormalities in the adrenal or pituitary glands.<br><br>
 
 ### Specialists Involved
-- **Endocrinologists**: Specialists in hormone-related conditions who can diagnose and manage adrenal insufficiency⁵.
-- **Primary Care Physicians**: Often the first to suspect and refer patients to endocrinologists for further evaluation⁵.
+- **Endocrinologists**: Specialists in hormone-related conditions who can diagnose and manage adrenal insufficiency.<br>
+- **Primary Care Physicians**: Often the first to suspect and refer patients to endocrinologists for further evaluation.<br><br>
 
 ### Treatment Options
-- **Hormone Replacement Therapy**: The main treatment involves replacing the deficient hormones with medications such as hydrocortisone, prednisone, or dexamethasone for cortisol, and fludrocortisone for aldosterone.
-- **Adjustments for Stress**: Dosages may need to be adjusted during periods of stress, illness, or surgery to mimic the body's natural response¹².
+- **Hormone Replacement Therapy**: The main treatment involves replacing the deficient hormones with medications such as hydrocortisone, prednisone, or dexamethasone for cortisol, and fludrocortisone for aldosterone.<br>
+- **Adjustments for Stress**: Dosages may need to be adjusted during periods of stress, illness, or surgery to mimic the body's natural response.<br>
 - **Emergency Treatment**: In cases of adrenal crisis, immediate treatment with intravenous hydrocortisone, saline, and dextrose is necessary
 </details>
 

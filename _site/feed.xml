@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Health Notes</title>
   <subtitle>This is where I cry on the internet</subtitle>
-  <updated>2024-10-31T09:36:43-05:00</updated>
+  <updated>2025-05-26T14:46:11-05:00</updated>
   <author>
     <name>NPCghost</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,56 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2024 NPCghost </rights>
+  <rights> © 2025 NPCghost </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Gut Brain connection</title>
+    <link href="http://localhost:4000/posts/Gut-Brain/" rel="alternate" type="text/html" title="Gut Brain connection" />
+    <published>2024-11-28T00:00:00-05:00</published>
+  
+    <updated>2024-11-28T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Gut-Brain/</id>
+    <content src="http://localhost:4000/posts/Gut-Brain/" />
+    <author>
+      <name>NPCghost</name>
+    </author>
+
+  
+    
+    <category term="Studies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Dysbiosis May Be the Root Cause
+
+Initial Onset
+
+  My health issues began after a severe flu, leading to chronic fatigue syndrome (CFS) and postural orthostatic tachycardia syndrome (POTS).
+  Viruses are known to disrupt gut bacteria, and I suspected my microbiome might play a role in my symptoms.
+
+
+Azithromycin Experiment
+
+  The first time I took azithromycin, I experienced:
+    
+      Severe s...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -105,7 +151,7 @@ I’d like to get one that alerts hypoglycemia b...
     <link href="http://localhost:4000/posts/Progress/" rel="alternate" type="text/html" title="Progress and Future attempts" />
     <published>2024-05-02T00:00:00-05:00</published>
   
-    <updated>2024-05-02T00:00:00-05:00</updated>
+    <updated>2024-10-31T09:37:38-05:00</updated>
   
     <id>http://localhost:4000/posts/Progress/</id>
     <content src="http://localhost:4000/posts/Progress/" />
@@ -170,42 +216,6 @@ I also got a head start on things as I had fallen ill with a gastrointestinal il
   
     Introduction 
 The vestibular system has traditionally been thought of as a balance apparatus that is related to brain disorders only when co-morbid symptoms include balance compromise, such as in Meniere′s disease and Parkinson′s disease. However, accumulating research suggests an association between vestibular function and psychiatric disorders, even when balance is apparently unaffect...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Neurotech</title>
-    <link href="http://localhost:4000/posts/Neurotech/" rel="alternate" type="text/html" title="Neurotech" />
-    <published>2023-09-15T00:00:00-05:00</published>
-  
-    <updated>2023-09-15T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/Neurotech/</id>
-    <content src="http://localhost:4000/posts/Neurotech/" />
-    <author>
-      <name>NPCghost</name>
-    </author>
-
-  
-    
-    <category term="Studies" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      A person of interest I’ve been following in particular has been Nita Farahany that often demonstrates/discusses various types of neurotech being introduced into government/corporations.
-
-Often matters of  Havana Syndrome  and the ability for devices to be used to transmit feelings into users comes into discussions. It has been recently demonstrated that while we are still in primitive developme...
     </summary>
   
 

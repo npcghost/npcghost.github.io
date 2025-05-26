@@ -54,6 +54,10 @@ I went to the ER a long time ago because I kept fainting over and over. I was ba
 <details><summary>screenshots from online forums</summary>
 I thought it was something I was doing wrong for a while until I realized this is just what happens when you have these symptoms and no answers.   
 Got me a bit curious about why, with all their education, they can assume malice/laziness so confidently. A lot of the patients they mock used to be highly driven, but apparently no one with invisible illnesses suffer the way the healthcare workers do so no one has the right to complain.    <br>
+
+Perhaps it can feel safer to conclude that patients are exaggerating or somehow responsible for their lack of improvement instead of the uncomfortable fact that the system is broken and coerces patients into unecessary medical visits.   
+
+
 <br>
   
 I don't see a way to win this battle. It feels like even a good portion are actively working against their patients. For what reason? 
